@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lrouter-annotation/Lrouter-annotation.iml" filepath="$PROJECT_DIR$/Lrouter-annotation/Lrouter-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lrouter-process/Lrouter-process.iml" filepath="$PROJECT_DIR$/Lrouter-process/Lrouter-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XUtilsCenter.iml" filepath="$PROJECT_DIR$/XUtilsCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lrouter-api/lrouter-api.iml" filepath="$PROJECT_DIR$/lrouter-api/lrouter-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>
